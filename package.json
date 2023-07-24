@@ -25,7 +25,7 @@
     ]
   },
   "dependencies": {
-    "abbrev": "^1.1.1",
+    "abbrev": "^2.0.0",
     "adm-zip": "^0.5.10",
     "agent-base": "^6.0.2",
     "agentkeepalive": "^4.3.0",
