@@ -27,7 +27,7 @@
   "dependencies": {
     "abbrev": "^2.0.0",
     "adm-zip": "^0.5.10",
-    "agent-base": "^6.0.2",
+    "agent-base": "^7.0.0",
     "agentkeepalive": "^4.3.0",
     "aggregate-error": "^3.1.0",
     "ansi-regex": "^5.0.1",
