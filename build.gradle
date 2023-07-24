@@ -80,7 +80,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-security:3.1.2'
     implementation 'io.jsonwebtoken:jjwt-api:0.11.5'
     implementation 'com.alibaba:druid:0.1.19'
-    implementation 'ru.yandex.clickhouse:clickhouse-jdbc:0.1.13'
+    implementation 'ru.yandex.clickhouse:clickhouse-jdbc:0.3.2'
 
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa:3.1.2'
     implementation 'mysql:mysql-connector-java:8.0.33'
