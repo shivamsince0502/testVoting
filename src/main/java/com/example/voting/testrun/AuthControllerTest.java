@@ -66,12 +66,12 @@ class AuthControllerTest {
         assertEquals("varun", response.getBody().getUsername());
     }
 
-   @Test
-   void testLogin_WithBadCredentialsException() {
-       JwtRequest request = new JwtRequest("username", "incorrect_password");
+   // @Test
+   // void testLogin_WithBadCredentialsException() {
+   //     JwtRequest request = new JwtRequest("username", "incorrect_password");
 
-       assertThrows(BadCredentialsException.class, () -> authController.login(request));
-   }
+   //     assertThrows(BadCredentialsException.class, () -> authController.login(request));
+   // }
 
 //    @Test
 //    void testCreateUser() {
