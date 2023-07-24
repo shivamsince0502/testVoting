@@ -79,6 +79,8 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web:3.1.2'
     implementation 'org.springframework.boot:spring-boot-starter-security:3.1.2'
     implementation 'io.jsonwebtoken:jjwt-api:0.11.5'
+    implementation 'com.alibaba:druid:0.1.19'
+
 //<<<<<<< HEAD
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa:3.1.0'
     implementation 'mysql:mysql-connector-java:8.0.32'
