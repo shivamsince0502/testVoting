@@ -1,20 +1,20 @@
 {
-"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  
-  "baseBranches": ["main"],
-  "ignoreTests": true,
-  "prHourlyLimit": 0,
-  "schedule": ["at any time"],
-  "separateMajorMinor": false,
-  "packageRules": [
-    {
-      "matchUpdateTypes": ["minor", "patch"],
-      "automerge": true
-    },
-    {
-      "matchUpdateTypes": ["major"],
-      "automerge": false
-    }
-  ] 
-  
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "baseBranches": ["main"],
+    "ignoreTests": true,
+    "prHourlyLimit": 0,
+    "schedule": [
+        "at any time"
+    ],
+    "separateMajorMinor": false,
+    "packageRules": [
+        {
+            "matchUpdateTypes": ["minor", "patch"],
+            "automerge": true
+        },
+        {
+            "matchUpdateTypes": ["major"],
+            "automerge": false
+        }
+    ]
 }
