@@ -45,7 +45,7 @@
     "aws4": "^1.12.0",
     "azure-devops-node-api": "^12.1.0",
     "backslash": "^0.2.0",
-    "bail": "^1.0.5",
+    "bail": "^2.0.0",
     "balanced-match": "^1.0.2",
     "before-after-hook": "^2.2.3",
     "bn.js": "^4.12.0",
