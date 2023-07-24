@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "extends": [
+    "config:base"
+  ]
+=======
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  
+  "baseBranches": ["main"],
+  "ignoreTests": true,
+      "automerge": true,
+  "schedule": ["at any time"]
+>>>>>>> origin/main
+}
