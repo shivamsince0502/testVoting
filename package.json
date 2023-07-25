@@ -204,7 +204,7 @@
     "is-fullwidth-code-point": "^3.0.0",
     "is-generator-function": "^1.0.10",
     "is-glob": "^4.0.3",
-    "is-hexadecimal": "^1.0.4",
+    "is-hexadecimal": "^2.0.0",
     "is-lambda": "^1.0.1",
     "is-number": "^7.0.0",
     "is-plain-obj": "^1.1.0",
