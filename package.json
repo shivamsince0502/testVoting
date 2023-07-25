@@ -256,7 +256,7 @@
     "merge2": "^1.4.1",
     "micromark": "^2.11.4",
     "micromatch": "^4.0.5",
-    "mimic-response": "^1.0.1",
+    "mimic-response": "^4.0.0",
     "min-indent": "^1.0.1",
     "minimalistic-assert": "^1.0.1",
     "minimatch": "^9.0.2",
