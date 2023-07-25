@@ -438,7 +438,7 @@
     "vfile": "^4.2.1",
     "vfile-message": "^2.0.4",
     "vuln-vects": "^1.1.0",
-    "webidl-conversions": "^3.0.1",
+    "webidl-conversions": "^7.0.0",
     "whatwg-url": "^5.0.0",
     "which": "^2.0.2",
     "which-typed-array": "^1.1.10",
