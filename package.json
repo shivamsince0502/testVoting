@@ -158,7 +158,7 @@
     "globby": "^11.1.0",
     "good-enough-parser": "^1.1.23",
     "gopd": "^1.0.1",
-    "got": "^11.8.6",
+    "got": "^13.0.0",
     "graceful-fs": "^4.2.11",
     "graph-data-structure": "^3.3.0",
     "grapheme-splitter": "^1.0.4",
