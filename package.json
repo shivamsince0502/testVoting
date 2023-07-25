@@ -192,7 +192,7 @@
     "install-artifact-from-github": "^1.3.3",
     "ip": "^2.0.0",
     "is": "^3.3.0",
-    "is-alphabetical": "^1.0.4",
+    "is-alphabetical": "^2.0.0",
     "is-alphanumerical": "^1.0.4",
     "is-arguments": "^1.1.1",
     "is-arrayish": "^0.3.0",
