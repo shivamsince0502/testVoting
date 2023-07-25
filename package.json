@@ -69,7 +69,7 @@
     "character-entities": "^1.2.4",
     "character-entities-legacy": "^1.1.4",
     "character-reference-invalid": "^1.1.4",
-    "chevrotain": "^9.1.0",
+    "chevrotain": "^11.0.0",
     "chownr": "^2.0.0",
     "ci-info": "^3.8.0",
     "clean-git-ref": "^2.0.1",
