@@ -3,6 +3,7 @@
     "baseBranches": ["master"],
     "ignoreTests": true,
     "prHourlyLimit": 0,
+    "prConcurrentLimit": 0,
     "schedule": [
         "at any time"
     ],
