@@ -334,7 +334,7 @@
     "read-pkg": "^5.2.0",
     "read-pkg-up": "^7.0.1",
     "read-yaml-file": "^2.1.0",
-    "readable-stream": "^3.6.2",
+    "readable-stream": "^4.0.0",
     "redent": "^3.0.0",
     "redis": "^4.6.7",
     "regenerator-runtime": "^0.13.11",
