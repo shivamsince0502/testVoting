@@ -284,7 +284,7 @@
     "node-gyp": "^9.4.0",
     "node-html-parser": "^6.1.5",
     "node.extend": "^2.0.2",
-    "nopt": "^6.0.0",
+    "nopt": "^7.0.0",
     "normalize-package-data": "^2.5.0",
     "normalize-url": "^6.1.0",
     "npmlog": "^6.0.2",
