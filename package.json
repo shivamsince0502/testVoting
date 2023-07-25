@@ -63,7 +63,7 @@
     "cacheable-request": "^10.0.0",
     "call-bind": "^1.0.2",
     "camelcase": "^7.0.0",
-    "camelcase-keys": "^6.2.2",
+    "camelcase-keys": "^8.0.0",
     "chalk": "^4.1.2",
     "changelog-filename-regex": "^2.0.1",
     "character-entities": "^1.2.4",
