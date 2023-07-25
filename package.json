@@ -235,7 +235,7 @@
     "lines-and-columns": "^1.2.4",
     "linkify-it": "^4.0.1",
     "localforage": "^1.10.0",
-    "locate-path": "^6.0.0",
+    "locate-path": "^7.0.0",
     "lodash": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "longest-streak": "^2.0.4",
