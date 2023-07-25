@@ -232,7 +232,7 @@
     "kind-of": "^6.0.3",
     "klona": "^2.0.6",
     "lie": "^3.1.1",
-    "lines-and-columns": "^1.2.4",
+    "lines-and-columns": "^2.0.0",
     "linkify-it": "^4.0.1",
     "localforage": "^1.10.0",
     "locate-path": "^6.0.0",
