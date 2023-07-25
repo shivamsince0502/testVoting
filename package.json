@@ -396,7 +396,7 @@
     "strip-ansi-cjs": "^6.0.1",
     "strip-bom": "^4.0.0",
     "strip-comments-strings": "^1.2.0",
-    "strip-indent": "^3.0.0",
+    "strip-indent": "^4.0.0",
     "strnum": "^1.0.5",
     "supports-color": "^7.2.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
