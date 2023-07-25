@@ -101,7 +101,7 @@
     "depd": "^2.0.0",
     "deprecation": "^2.3.1",
     "dequal": "^2.0.3",
-    "detect-indent": "^6.1.0",
+    "detect-indent": "^7.0.0",
     "detect-node": "^2.1.0",
     "diff": "^5.1.0",
     "dir-glob": "^3.0.1",
