@@ -73,7 +73,7 @@
     "chownr": "^2.0.0",
     "ci-info": "^3.8.0",
     "clean-git-ref": "^2.0.1",
-    "clean-stack": "^2.2.0",
+    "clean-stack": "^5.0.0",
     "clipanion": "^3.2.0-rc.4",
     "clone-response": "^1.0.3",
     "cluster-key-slot": "^1.1.2",
