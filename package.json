@@ -75,7 +75,7 @@
     "clean-git-ref": "^2.0.1",
     "clean-stack": "^2.2.0",
     "clipanion": "^3.2.0-rc.4",
-    "clone-response": "^1.0.3",
+    "clone-response": "^2.0.0",
     "cluster-key-slot": "^1.1.2",
     "color-convert": "^2.0.1",
     "color-name": "^1.1.4",
