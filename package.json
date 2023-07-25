@@ -297,7 +297,7 @@
     "p-all": "^3.0.0",
     "p-cancelable": "^2.1.1",
     "p-filter": "^2.1.0",
-    "p-finally": "^1.0.0",
+    "p-finally": "^2.0.0",
     "p-limit": "^2.3.0",
     "p-locate": "^5.0.0",
     "p-map": "^4.0.0",
