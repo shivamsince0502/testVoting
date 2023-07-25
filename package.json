@@ -176,7 +176,7 @@
     "hosted-git-info": "^2.8.9",
     "http": "^0.0.1-security",
     "http-cache-semantics": "^4.1.1",
-    "http-proxy-agent": "^5.0.0",
+    "http-proxy-agent": "^7.0.0",
     "http2-wrapper": "^1.0.3",
     "https-proxy-agent": "^5.0.1",
     "humanize-ms": "^1.2.1",
