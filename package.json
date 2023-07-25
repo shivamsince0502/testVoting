@@ -199,7 +199,7 @@
     "is-buffer": "^2.0.5",
     "is-callable": "^1.2.7",
     "is-core-module": "^2.12.1",
-    "is-decimal": "^1.0.4",
+    "is-decimal": "^2.0.0",
     "is-extglob": "^2.1.1",
     "is-fullwidth-code-point": "^3.0.0",
     "is-generator-function": "^1.0.10",
