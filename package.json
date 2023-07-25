@@ -120,7 +120,7 @@
     "end-of-stream": "^1.4.4",
     "entities": "^3.0.1",
     "env-paths": "^2.2.1",
-    "err-code": "^2.0.3",
+    "err-code": "^3.0.0",
     "error-ex": "^1.3.2",
     "es6-error": "^4.1.1",
     "escape-string-regexp": "^4.0.0",
