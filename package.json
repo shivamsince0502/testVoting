@@ -262,7 +262,7 @@
     "minimatch": "^9.0.2",
     "minimist": "^1.2.8",
     "minimist-options": "^4.1.0",
-    "minipass": "^5.0.0",
+    "minipass": "^7.0.0",
     "minipass-collect": "^1.0.2",
     "minipass-fetch": "^3.0.3",
     "minipass-flush": "^1.0.5",
