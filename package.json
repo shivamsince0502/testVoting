@@ -299,7 +299,7 @@
     "p-filter": "^2.1.0",
     "p-finally": "^1.0.0",
     "p-limit": "^2.3.0",
-    "p-locate": "^5.0.0",
+    "p-locate": "^6.0.0",
     "p-map": "^4.0.0",
     "p-queue": "^6.6.2",
     "p-throttle": "^4.1.1",
