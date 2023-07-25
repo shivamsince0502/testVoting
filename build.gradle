@@ -99,7 +99,7 @@ dependencies {
     implementation 'org.codehaus.woodstox:woodstox-core-asl:4.4.1'
     compileOnly 'org.apache.spark:spark-sql_2.12:2.4.8'
     implementation 'org.webjars.npm:lodash:2.2.1'
-    implementation 'org.eclipse.jetty:jetty-xml:12.0.0.alpha0'
+    implementation 'org.eclipse.jetty:jetty-xml:12.0.0.beta3'
 
 
     runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.11.5'
