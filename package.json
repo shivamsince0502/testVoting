@@ -146,7 +146,7 @@
     "gauge": "^4.0.4",
     "generic-pool": "^3.9.0",
     "get-intrinsic": "^1.2.1",
-    "get-stream": "^5.2.0",
+    "get-stream": "^7.0.0",
     "git-raw-commits": "^2.0.11",
     "git-up": "^7.0.0",
     "git-url-parse": "^13.1.0",
