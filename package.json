@@ -306,7 +306,7 @@
     "p-timeout": "^3.2.0",
     "p-try": "^2.2.0",
     "parse-entities": "^2.0.0",
-    "parse-json": "^5.2.0",
+    "parse-json": "^7.0.0",
     "parse-link-header": "^2.0.0",
     "parse-path": "^7.0.0",
     "parse-url": "^8.1.0",
