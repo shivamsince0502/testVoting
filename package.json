@@ -143,7 +143,7 @@
     "fs-minipass": "^3.0.2",
     "fs.realpath": "^1.0.0",
     "function-bind": "^1.1.1",
-    "gauge": "^4.0.4",
+    "gauge": "^5.0.0",
     "generic-pool": "^3.9.0",
     "get-intrinsic": "^1.2.1",
     "get-stream": "^5.2.0",
