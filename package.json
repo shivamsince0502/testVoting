@@ -147,7 +147,7 @@
     "generic-pool": "^3.9.0",
     "get-intrinsic": "^1.2.1",
     "get-stream": "^5.2.0",
-    "git-raw-commits": "^2.0.11",
+    "git-raw-commits": "^3.0.0",
     "git-up": "^7.0.0",
     "git-url-parse": "^13.1.0",
     "github-url-from-git": "^1.5.0",
