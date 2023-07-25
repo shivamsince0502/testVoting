@@ -66,7 +66,7 @@
     "camelcase-keys": "^6.2.2",
     "chalk": "^4.1.2",
     "changelog-filename-regex": "^2.0.1",
-    "character-entities": "^1.2.4",
+    "character-entities": "^2.0.0",
     "character-entities-legacy": "^1.1.4",
     "character-reference-invalid": "^1.1.4",
     "chevrotain": "^9.1.0",
