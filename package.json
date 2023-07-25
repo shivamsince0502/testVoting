@@ -68,7 +68,7 @@
     "changelog-filename-regex": "^2.0.1",
     "character-entities": "^1.2.4",
     "character-entities-legacy": "^1.1.4",
-    "character-reference-invalid": "^1.1.4",
+    "character-reference-invalid": "^2.0.0",
     "chevrotain": "^9.1.0",
     "chownr": "^2.0.0",
     "ci-info": "^3.8.0",
