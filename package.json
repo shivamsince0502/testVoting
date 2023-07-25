@@ -280,7 +280,7 @@
     "ncp": "^2.0.0",
     "negotiator": "^0.6.3",
     "neo-async": "^2.6.2",
-    "node-fetch": "^2.6.12",
+    "node-fetch": "^3.0.0",
     "node-gyp": "^9.4.0",
     "node-html-parser": "^6.1.5",
     "node.extend": "^2.0.2",
