@@ -405,7 +405,7 @@
     "through2-concurrent": "^2.0.0",
     "tinylogic": "^1.0.3",
     "to-regex-range": "^5.0.1",
-    "tr46": "^0.0.3",
+    "tr46": "^4.0.0",
     "traverse": "^0.6.7",
     "treeify": "^1.1.0",
     "trim-newlines": "^3.0.1",
