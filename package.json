@@ -315,7 +315,7 @@
     "path-key": "^3.1.1",
     "path-parse": "^1.0.7",
     "path-scurry": "^1.10.1",
-    "path-type": "^4.0.0",
+    "path-type": "^5.0.0",
     "pend": "^1.2.0",
     "picomatch": "^2.3.1",
     "pluralize": "^7.0.0",
