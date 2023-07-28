@@ -350,7 +350,7 @@
     "responselike": "^2.0.1",
     "retry": "^0.13.0",
     "reusify": "^1.0.4",
-    "rimraf": "^2.4.5",
+    "rimraf": "^5.0.0",
     "roarr": "^2.15.4",
     "run-parallel": "^1.2.0",
     "safe-buffer": "^5.2.1",
