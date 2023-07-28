@@ -436,7 +436,7 @@
     "validate-npm-package-license": "^3.0.4",
     "validate-npm-package-name": "^5.0.0",
     "vfile": "^4.2.1",
-    "vfile-message": "^2.0.4",
+    "vfile-message": "^4.0.0",
     "vuln-vects": "^1.1.0",
     "webidl-conversions": "^7.0.0",
     "whatwg-url": "^5.0.0",
