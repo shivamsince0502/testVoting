@@ -89,7 +89,7 @@
     "cross-spawn": "^7.0.3",
     "css-select": "^5.1.0",
     "css-what": "^6.1.0",
-    "dargs": "^7.0.0",
+    "dargs": "^8.0.0",
     "debug": "^4.3.4",
     "decamelize": "^1.2.0",
     "decamelize-keys": "^1.1.1",
