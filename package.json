@@ -435,7 +435,7 @@
     "uuid": "^8.3.2",
     "validate-npm-package-license": "^3.0.4",
     "validate-npm-package-name": "^5.0.0",
-    "vfile": "^4.2.1",
+    "vfile": "^6.0.0",
     "vfile-message": "^2.0.4",
     "vuln-vects": "^1.1.0",
     "webidl-conversions": "^7.0.0",
