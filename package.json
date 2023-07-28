@@ -440,7 +440,7 @@
     "vuln-vects": "^1.1.0",
     "webidl-conversions": "^7.0.0",
     "whatwg-url": "^5.0.0",
-    "which": "^2.0.2",
+    "which": "^3.0.0",
     "which-typed-array": "^1.1.10",
     "wide-align": "^1.1.5",
     "wordwrap": "^1.0.0",
