@@ -429,7 +429,7 @@
     "universal-user-agent": "^6.0.0",
     "universalify": "^2.0.0",
     "upath": "^2.0.1",
-    "url-join": "^4.0.1",
+    "url-join": "^5.0.0",
     "util": "^0.12.5",
     "util-deprecate": "^1.0.2",
     "uuid": "^8.3.2",
