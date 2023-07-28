@@ -426,7 +426,7 @@
     "unist-util-stringify-position": "^2.0.3",
     "unist-util-visit": "^2.0.3",
     "unist-util-visit-parents": "^3.1.1",
-    "universal-user-agent": "^6.0.0",
+    "universal-user-agent": "^7.0.0",
     "universalify": "^2.0.0",
     "upath": "^2.0.1",
     "url-join": "^4.0.1",
