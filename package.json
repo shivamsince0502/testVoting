@@ -419,7 +419,7 @@
     "uc.micro": "^1.0.6",
     "uglify-js": "^3.17.4",
     "underscore": "^1.13.6",
-    "unified": "^9.2.2",
+    "unified": "^10.0.0",
     "unique-filename": "^3.0.0",
     "unique-slug": "^4.0.0",
     "unist-util-is": "^4.1.0",
