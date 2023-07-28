@@ -285,7 +285,7 @@
     "node-html-parser": "^6.1.5",
     "node.extend": "^2.0.2",
     "nopt": "^6.0.0",
-    "normalize-package-data": "^2.5.0",
+    "normalize-package-data": "^5.0.0",
     "normalize-url": "^6.1.0",
     "npmlog": "^6.0.2",
     "nth-check": "^2.1.1",
