@@ -330,7 +330,7 @@
     "pump": "^3.0.0",
     "qs": "^6.11.2",
     "queue-microtask": "^1.2.3",
-    "quick-lru": "^5.1.1",
+    "quick-lru": "^6.0.0",
     "read-pkg": "^5.2.0",
     "read-pkg-up": "^7.0.1",
     "read-yaml-file": "^2.1.0",
