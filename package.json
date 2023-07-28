@@ -422,7 +422,7 @@
     "unified": "^9.2.2",
     "unique-filename": "^3.0.0",
     "unique-slug": "^4.0.0",
-    "unist-util-is": "^4.1.0",
+    "unist-util-is": "^6.0.0",
     "unist-util-stringify-position": "^2.0.3",
     "unist-util-visit": "^2.0.3",
     "unist-util-visit-parents": "^3.1.1",
