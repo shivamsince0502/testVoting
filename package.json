@@ -415,7 +415,7 @@
     "typanion": "^3.13.0",
     "type-fest": "^0.8.1",
     "typed-rest-client": "^1.8.11",
-    "typedarray-to-buffer": "^3.1.5",
+    "typedarray-to-buffer": "^4.0.0",
     "uc.micro": "^1.0.6",
     "uglify-js": "^3.17.4",
     "underscore": "^1.13.6",
