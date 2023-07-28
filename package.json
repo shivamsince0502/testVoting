@@ -393,7 +393,7 @@
     "string-width": "^5.1.2",
     "string-width-cjs": "^4.2.3",
     "strip-ansi": "^6.0.1",
-    "strip-ansi-cjs": "^6.0.1",
+    "strip-ansi-cjs": "^8.0.0",
     "strip-bom": "^4.0.0",
     "strip-comments-strings": "^1.2.0",
     "strip-indent": "^4.0.0",
