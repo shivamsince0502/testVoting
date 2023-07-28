@@ -403,7 +403,7 @@
     "tar": "^6.1.15",
     "through2": "^4.0.2",
     "through2-concurrent": "^2.0.0",
-    "tinylogic": "^1.0.3",
+    "tinylogic": "^2.0.0",
     "to-regex-range": "^5.0.1",
     "tr46": "^0.0.3",
     "traverse": "^0.6.7",
