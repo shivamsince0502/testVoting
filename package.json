@@ -383,7 +383,7 @@
     "spdx-exceptions": "^2.3.0",
     "spdx-expression-parse": "^3.0.1",
     "spdx-license-ids": "^3.0.13",
-    "split2": "^3.2.2",
+    "split2": "^4.0.0",
     "sprintf-js": "^1.1.2",
     "ssri": "^10.0.4",
     "stream-buffers": "^3.0.2",
