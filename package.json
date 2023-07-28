@@ -445,7 +445,7 @@
     "wide-align": "^1.1.5",
     "wordwrap": "^1.0.0",
     "wrap-ansi": "^8.1.0",
-    "wrap-ansi-cjs": "^7.0.0",
+    "wrap-ansi-cjs": "^8.0.0",
     "wrappy": "^1.0.2",
     "write-file-atomic": "^5.0.1",
     "write-yaml-file": "^4.2.0",
