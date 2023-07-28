@@ -398,7 +398,7 @@
     "strip-comments-strings": "^1.2.0",
     "strip-indent": "^4.0.0",
     "strnum": "^1.0.5",
-    "supports-color": "^7.2.0",
+    "supports-color": "^9.0.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
     "tar": "^6.1.15",
     "through2": "^4.0.2",
