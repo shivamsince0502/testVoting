@@ -92,7 +92,7 @@
     "dargs": "^7.0.0",
     "debug": "^4.3.4",
     "decamelize": "^1.2.0",
-    "decamelize-keys": "^1.1.1",
+    "decamelize-keys": "^2.0.0",
     "decompress-response": "^6.0.0",
     "deepmerge": "^4.3.1",
     "defer-to-connect": "^2.0.1",
