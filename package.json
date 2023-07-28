@@ -342,7 +342,7 @@
     "remark": "^13.0.0",
     "remark-github": "^10.1.0",
     "remark-parse": "^9.0.0",
-    "remark-stringify": "^9.0.1",
+    "remark-stringify": "^10.0.0",
     "repeat-string": "^1.6.1",
     "require-in-the-middle": "^7.2.0",
     "resolve": "^1.22.2",
