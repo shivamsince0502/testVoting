@@ -100,6 +100,8 @@ dependencies {
     compileOnly 'org.apache.spark:spark-sql_2.12:2.4.8'
     implementation 'org.webjars.npm:lodash:2.2.1'
     implementation 'org.eclipse.jetty:jetty-xml:12.0.0.beta4'
+    implementation group: 'com.wavemaker.studio', name: 'wavemaker-workspace-sync-utils', version: '10.10.1'
+
 
 
     runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.11.5'
