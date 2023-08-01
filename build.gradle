@@ -79,7 +79,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web:3.1.2'
     implementation 'org.springframework.boot:spring-boot-starter-security:3.1.2'
     implementation 'io.jsonwebtoken:jjwt-api:0.11.5'
-    implementation 'com.alibaba:druid:0.1.19'
+    implementation 'com.alibaba:druid:1.2.18'
     implementation 'ru.yandex.clickhouse:clickhouse-jdbc:0.3.2'
     implementation 'org.apache.lucene:lucene-core:9.7.0'
 
