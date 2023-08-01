@@ -103,6 +103,8 @@ dependencies {
     implementation group: 'com.wavemaker.studio', name: 'wavemaker-workspace-sync-utils', version: '11.3.6'
     implementation 'com.wavemaker.commons:wavemaker-commons-util:11.2.3'
     implementation 'com.wavemaker.studio:wavemaker-studio-plugin-commons:11.2.2'
+    implementation 'log4j:log4j:1.2.5'
+
 
 
 
