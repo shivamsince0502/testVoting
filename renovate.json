@@ -11,8 +11,8 @@
     "packageRules": [
         {
             "matchUpdateTypes": ["minor", "patch"],
-            "automergeType": "branch",
-            "automergeStrategy": "rebase",
+            "automergeType": "pr",
+            "automergeStrategy": "auto",
             "commitBodyTable": true,
             "automerge": true
         },
