@@ -101,6 +101,8 @@ dependencies {
     implementation 'org.webjars.npm:lodash:2.2.1'
     implementation 'org.eclipse.jetty:jetty-xml:12.0.0.beta4'
     implementation group: 'com.wavemaker.studio', name: 'wavemaker-workspace-sync-utils', version: '10.10.1'
+    implementation 'com.wavemaker.commons:wavemaker-commons-util:11.2.3'
+
 
 
 
