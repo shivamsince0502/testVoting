@@ -4,6 +4,7 @@
     "prHourlyLimit": 0,
     "prConcurrentLimit": 0,
     "dependencyDashboard": true,
+    "pruneStaleBranches": true,
     "schedule": [
         "at any time"
     ],
@@ -20,8 +21,7 @@
             "matchUpdateTypes": ["major"],
             "automerge": false
         }
-    ],
-    "git-branch": {
-        "pruneStaleBranches": true
-    }
+    ]
+        
+    
 }
