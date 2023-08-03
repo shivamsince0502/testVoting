@@ -109,7 +109,7 @@ dependencies {
     implementation 'com.sun.xml.bind:jaxb-impl:4.0.3'
     implementation 'xerces:xercesImpl:2.12.2'
     implementation 'xml-apis:xml-apis:1.2.01'
-    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.12.2'
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.15.2'
 
 
 
