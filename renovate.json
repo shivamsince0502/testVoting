@@ -19,7 +19,9 @@
         },
         {
             "matchUpdateTypes": ["major"],
-            "automerge": false
+            "automerge": false,
+            "automergeType": "pr",
+            "automergeStrategy": "auto"
         }
     ]
         
