@@ -112,7 +112,7 @@ dependencies {
     implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.15.2'
     implementation 'com.sun.xml.bind:jaxb-core:3.0.0'
 
-    implementation 'org.dom4j:dom4j:2.0.0'
+    implementation 'org.dom4j:dom4j:2.1.4'
     implementation 'org.scala-lang.modules:scala-xml_2.12:1.0.6'
 
 
