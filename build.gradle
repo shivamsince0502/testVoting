@@ -116,7 +116,7 @@ dependencies {
 9
 
     implementation 'org.dom4j:dom4j:2.1.4'
-    implementation 'org.scala-lang.modules:scala-xml_2.12:1.0.6'
+    implementation 'org.scala-lang.modules:scala-xml_2.12:2.2.0'
 
 
 
