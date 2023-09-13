@@ -97,7 +97,7 @@ dependencies {
     implementation 'org.mariadb.jdbc:mariadb-java-client:3.1.4'
     implementation 'xmlpull:xmlpull:1.1.2.1'
     implementation 'org.codehaus.woodstox:woodstox-core-asl:4.4.1'
-    compileOnly 'org.apache.spark:spark-sql_2.12:3.4.1'
+    compileOnly 'org.apache.spark:spark-sql_2.12:3.5.0'
     implementation 'org.webjars.npm:lodash:4.17.21'
     implementation 'org.eclipse.jetty:jetty-xml:12.0.0.beta4'
     implementation group: 'com.wavemaker.studio', name: 'wavemaker-workspace-sync-utils', version: '11.3.6'
