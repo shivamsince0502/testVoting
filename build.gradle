@@ -100,7 +100,7 @@ dependencies {
     compileOnly 'org.apache.spark:spark-sql_2.12:3.4.1'
     implementation 'org.webjars.npm:lodash:4.17.21'
     implementation 'org.eclipse.jetty:jetty-xml:12.0.0.beta4'
-    implementation group: 'com.wavemaker.studio', name: 'wavemaker-workspace-sync-utils', version: '11.3.6'
+    implementation group: 'com.wavemaker.studio', name: 'wavemaker-workspace-sync-utils', version: '11.5.1'
     implementation 'com.wavemaker.commons:wavemaker-commons-util:11.3.6'
     implementation 'com.wavemaker.studio:wavemaker-studio-plugin-commons:11.2.2'
     implementation 'log4j:log4j:1.2.17'
